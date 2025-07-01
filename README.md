@@ -35,7 +35,7 @@ A **Node.js** based REST API to host and manage your Men's Ranking project data.
 ---
 
 ## 📂 Project Structure
-
+```bash
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
@@ -45,7 +45,7 @@ A **Node.js** based REST API to host and manage your Men's Ranking project data.
 │ ├── models # Mongoose Schema
 │ ├── routes # API Routes
 │ ├── app.js # Main App File
-
+```
 
 ---
 
